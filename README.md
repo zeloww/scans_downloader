@@ -33,4 +33,4 @@ Best Scans Downloader !
 
 -----
 
-### <p align="center">zeloww</p>
+### <p align="center">[Zeloww](https://github.com/zeloww)</p>
